@@ -6,7 +6,7 @@ I'm Tyson, a dedicated developer with a focus on crafting useful web-application
 
 - 🔭 I’m currently engrossed in building an admin dashboard for a client's website. This involves managing users, events, and application features to create a robust and user-friendly environment.
 
-- 🌱 I’m in a perpetual state of learning and currently diving deep into the MERN (MongoDB, Express.js, React, Node.js) stack. Embracing new technologies keeps me on my toes and enhances my problem-solving skills. I have my eyes on SQL, GraphQL and supaBase also. 
+- 🌱  Embracing new technologies keeps me on my toes and enhances my problem-solving skills. I have my eyes on SQL, GraphQL and supaBase also. 
 
 - 👯 I’m open to collaboration! If you have an exciting project or aeronautics-related endeavor, I'm all ears. Let's build something amazing together.
 
