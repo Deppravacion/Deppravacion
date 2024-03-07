@@ -33,7 +33,7 @@ Frontend SWE
 I'm Tyson, a dedicated developer with a focus on crafting useful web-applications. Currently, I'm immersed in the world of React, TypeScript, and various UI libraries, with a penchant for enhancing user interfaces using technologies like Tailwind CSS.
 
 *   🌍  I'm based in Denver, Co
-*   🧠  I'm learning I’m in a perpetual state of learning and currently diving deep into the MERN (MongoDB, Express.js, React, Node.js) stack. Embracing new technologies keeps me on my toes and enhances my problem-solving skills. I have my eyes on SQL, GraphQL and supaBase also.
+*   🧠  I’m in a perpetual state of learning and currently diving deep into the MERN stack. Embracing new technologies keeps me on my toes and enhances my problem-solving skills. I have my eyes on SQL, GraphQL and supaBase also.
 *   🤝  I'm open to collaborating on I’m open to collaboration! If you have an exciting project or aeronautics-related endeavor, I'm all ears. Let's build something amazing together.
 *   ⚡  Fun facts: I'm currently involved in multiple freelance projects, showcasing my ability to handle diverse challenges and deliver top-notch solutions weather it is leading a team or just being a team-player ✈️ I'm fascinated by aeronautics! In addition to my coding adventures, I'm on a journey to join a flying club, earn a private pilot certificate, and make new aviation pals. Let's talk planes and code!### Skills 
 <p align="left">
