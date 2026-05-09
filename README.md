@@ -10,4 +10,4 @@ I translate well between technical depth and business outcomes.
 
 Tech: TypeScript, JavaScript, React, Next.js, Node.js, Tailwind CSS.
 
-GitHub: [deppravacion](https://github.com/deppravacion) · CodePen: [deppravacion](https://codepen.io/deppravacion) · Medium: [@deppravacion](http://www.medium.com/@deppravacion)
+
